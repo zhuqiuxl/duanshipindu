@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zhuqiuxl.github.io/duanshipindu/sitemap.xml
